@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university>
+    <name>NU LP</name>
+    <department name="computer engineering">
+        <student id="1">
+            <name>Roman</name>
+            <surname>Topalov</surname>
+            <age>20</age>
+            <course>3</course>
+            <rating>80.0</rating>
+        </student>
+        <student id="2">
+            <name>Roman</name>
+            <surname>Karpyn</surname>
+            <age>19</age>
+            <course>3</course>
+            <rating>73.2</rating>
+        </student>
+        <student id="3">
+            <name>Vova</name>
+            <surname>Bilyk</surname>
+            <age>20</age>
+            <course>3</course>
+            <rating>78.0</rating>
+        </student>
+    </department>
+    <department name="Computer Science">
+        <student id="1">
+            <name>Ihor</name>
+            <surname>Volovets</surname>
+            <age>20</age>
+            <course>3</course>
+            <rating>80.0</rating>
+        </student>
+        <student id="2">
+            <name>Oleh</name>
+            <surname>Karpyn</surname>
+            <age>50</age>
+            <course>3</course>
+            <rating>73.2</rating>
+        </student>
+        <student id="3">
+            <name>Vova</name>
+            <surname>Ivanov</surname>
+            <age>23</age>
+            <course>1</course>
+            <rating>78.0</rating>
+        </student>
+    </department>
+</university>

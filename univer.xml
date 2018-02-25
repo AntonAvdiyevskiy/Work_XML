@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<university>
+    <name>Nu Lp</name>
+    <departments>
+        <name>Computer Engineering</name>
+        <students>
+            <age>20</age>
+            <course>3</course>
+            <name>Anton</name>
+            <rating>80.0</rating>
+            <surname>Avdiyevskiy</surname>
+        </students>
+    </departments>
+</university>
